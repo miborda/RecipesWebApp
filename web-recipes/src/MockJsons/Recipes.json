@@ -1,0 +1,134 @@
+{
+    "Recipes": [
+        {
+            "id": 1,
+            "name": "Pollo Guisado",
+            "ingredients": [
+                {
+                    "ingrediente": "pollo",
+                    "cantidad": "300g"
+                },
+                {
+                    "ingrediente": "arvejas",
+                    "cantidad": "30g"
+                },
+                {
+                    "ingrediente": "champiñones",
+                    "cantidad": "4u"
+                },
+                {
+                    "ingrediente": "manteca",
+                    "cantidad": "35g"
+                },
+                {
+                    "ingrediente": "Aceite de Oliva",
+                    "cantidad": "2cdas"
+                },
+                {
+                    "ingrediente": "cebolla",
+                    "cantidad": "1u"
+                },
+                {
+                    "ingrediente": "Perejil",
+                    "cantidad": "1cda"
+                },
+                {
+                    "ingrediente": "Harina",
+                    "cantidad": "15g"
+                },
+                {
+                    "ingrediente": "Caldo de Ave",
+                    "cantidad": "c/n"
+                },
+                {
+                    "ingrediente": "Sal",
+                    "cantidad": "c/n"
+                },
+                {
+                    "ingrediente": "Batatas",
+                    "cantidad": "150g"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Tallarines con salsa tonno",
+            "ingredients": [
+                {
+                    "ingrediente": "Tallarines",
+                    "cantidad": "150g"
+                },
+                {
+                    "ingrediente": "Dientes de Ajo",
+                    "cantidad": "2u"
+                },
+                {
+                    "ingrediente": "Perejil",
+                    "cantidad": "1cda"
+                },
+                {
+                    "ingrediente": "Anchoas",
+                    "cantidad": "10g"
+                },
+                {
+                    "ingrediente": "Pure de tomate",
+                    "cantidad": "150g"
+                },
+                {
+                    "ingrediente": "Aceite de oliva",
+                    "cantidad": "1cda"
+                },
+                {
+                    "ingrediente": "sal",
+                    "cantidad": "c/n"
+                },
+                {
+                    "ingrediente": "Oregano",
+                    "cantidad": "a gusto"
+                },
+                {
+                    "ingrediente": "Laurel",
+                    "cantidad": "1 hoja"
+                },
+                {
+                    "ingrediente": "Caldo de Ave",
+                    "cantidad": "150g"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Costeletas  a la Riojana",
+            "ingredients": [
+                {
+                    "ingrediente": "Costeletas de cerdo",
+                    "cantidad": "2u"
+                },
+                {
+                    "ingrediente": "Pimiento Rojo",
+                    "cantidad": "50g"
+                },
+                {
+                    "ingrediente": "Jamon Cocido",
+                    "cantidad": "60g"
+                },
+                {
+                    "ingrediente": "Huevos",
+                    "cantidad": "2u"
+                },
+                {
+                    "ingrediente": "Manteca",
+                    "cantidad": "15g"
+                },
+                {
+                    "ingrediente": "Arvejas",
+                    "cantidad": "50g"
+                },
+                {
+                    "ingrediente": "Sal y Pimienta",
+                    "cantidad": "c/n"
+                }
+            ]
+        }
+    ]
+}

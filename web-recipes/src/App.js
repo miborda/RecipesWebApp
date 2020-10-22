@@ -7,7 +7,8 @@ import Grid from './Components/Grid';
 class App extends React.Component {
   render() {
     return (
-      <div className="App">|
+      <div className="App">
+        
         <Grid />
       </div>
     );
